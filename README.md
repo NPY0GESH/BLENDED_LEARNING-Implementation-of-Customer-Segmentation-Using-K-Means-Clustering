@@ -81,8 +81,8 @@ plt.ylabel('Spending Score (1-100)')
 plt.legend(title='Cluster')
 plt.show()
 
-Developed by: Athreya A
-RegisterNumber:  212225240016
+Developed by: N P  YOGESH
+RegisterNumber:  212225240189
 */
 ```
 
